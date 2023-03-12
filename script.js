@@ -1,1 +1,1 @@
-let array = ['adi', 3, 10, 'sd', true];
+let yourArray = ['adi', 1.2, 10, 'sd', true];
